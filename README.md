@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ambiverted254
 - 👀 I’m interested in game development 
-- 🌱 I’m currently learning C# and Unity Game Engine
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C# and Unity Game Engine and Unreal Engine 4 & 5
 
 <!---
 ambiverted254/ambiverted254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
