@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ambiverted254
-- 👀 I’m interested in game development 
+- 👀 I’m interested in game and app development 
 - 🌱 I’m currently learning C# and Unity Game Engine and Unreal Engine 4 & 5
 
 <!---
